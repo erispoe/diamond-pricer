@@ -60,7 +60,7 @@ shinyUI(fluidPage(
     ),
     
     mainPanel(
-      uiOutput("fit"),
+      uiOutput("fit")
       
       )
     

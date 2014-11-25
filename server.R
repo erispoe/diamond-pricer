@@ -25,8 +25,6 @@ shinyServer(function(input, output) {
       )
     )
     
-    output$plot <- 
-    
   })
   
 
